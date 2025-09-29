@@ -1,4 +1,21 @@
-# Projeto Busca CEP
+# 🌍 Projeto GeoCidadão (Busca CEP com Inclusão Social)
+
+Este é um sistema web completo para buscar e salvar informações de endereços a partir de um CEP, mas com um diferencial: ele também busca integrar informações sociais relevantes para comunidades urbanas.  
+
+A aplicação não apenas retorna os dados de endereço, como também pode ser expandida para associar cada CEP a indicadores de inclusão social, como: proximidade de escolas públicas, postos de saúde, transporte coletivo, áreas de risco ou projetos comunitários.  
+
+## 🤝 Impacto Social
+
+Este projeto pode apoiar:  
+
+- **Gestão Pública:** fornecendo base para governos e ONGs cruzarem informações de endereços com serviços sociais.  
+- **Inclusão Digital:** ajudando famílias de áreas periféricas a encontrar serviços essenciais mais próximos de seus lares.  
+- **Emergências:** facilitando a localização de áreas de risco em enchentes, desabamentos ou desastres urbanos.  
+- **Projetos Comunitários:** permitindo que iniciativas sociais mapeiem regiões atendidas e melhorem a comunicação com beneficiários.  
+
+Dessa forma, o sistema não é apenas um buscador de CEP, mas também um **mecanismo de inclusão e cidadania**.  
+
+O objetivo é contribuir para o **ODS 11 – Cidades e Comunidades Sustentáveis**, apoiando iniciativas que promovam acessibilidade, inclusão social e cidades mais inteligentes.
 
 Este é um sistema web completo para buscar e salvar informações de endereços a partir de um CEP. A aplicação possui um sistema de autenticação de usuários e permite que cada usuário salve seus próprios "cards" de endereços.
 
